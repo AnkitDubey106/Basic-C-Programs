@@ -17,7 +17,7 @@ int num;
 
 }
 
-cout<<endl<<countsum;
+cout<<endl<<"the sum of first 10 natural number are ="<<countsum;
 
         return 0;
 }
