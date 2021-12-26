@@ -1,5 +1,6 @@
 // C++ program to demonstrate
 // Function Derived Type
+/*   function is a block of code or program-segment that is defined to perform a specific well-defined task. A function is generally defined to save the user from writing the same lines of code again and again for the same input. All the lines of code are put together inside a single function and this can be called anywhere required. main() is a default function that is defined in every program of C++.    */
 
 #include <iostream>
 using namespace std;
